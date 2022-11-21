@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dungptfx13091/NodeJS301x-lab#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "nodemon": "^1.18.3"
+    "nodemon": "^1.18.3",
+    "body-parser": "1.18.3"
   }
 }
